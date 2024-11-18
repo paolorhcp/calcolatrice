@@ -8,4 +8,10 @@ public class Calcolatrice {
 		return risultato;
 	}
 
+	public int moltiplicazione(int primo, int secondo, int terzo) {
+		int risultato;
+		risultato = primo*secondo*terzo;
+		return risultato;
+	}
+
 }

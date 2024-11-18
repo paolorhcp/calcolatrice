@@ -12,8 +12,10 @@ public class Main {
 		int c = 7;
 		
 		int somma = calc.somma(a, b, c);
+		int moltiplicazione = calc.moltiplicazione(a, b, c);
 		
 		System.out.println(somma);
+		System.out.println(moltiplicazione);
 
 	}
 
